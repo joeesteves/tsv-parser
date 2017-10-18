@@ -15,5 +15,13 @@
   "name": "tsv-parser",
   "version": "1.0.0",
   "main": "lib/index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "author": {
+    "name": "Jose Esteves",
+    "url": "https://github.com/ponyesteves"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ponyesteves/tsv-parser"
+  }
 }
