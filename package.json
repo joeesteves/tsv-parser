@@ -23,5 +23,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/ponyesteves/tsv-parser"
-  }
+  },
+  "description": "Simple TSV to JSON parse. Uses the first line as headers and returns an observable"
 }
